@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Denisseortizu  
-- 👀 I’m interested in art, tech, and cats.
-- 🌱 I’m currently exploring Python.
-- 💼 Developer experienced in ABAP.
+- 👋 Hi, I’m @Denisseortizu
 - 👩🏻‍💻 Computer systems engineer.
+- 💼 Developer experienced in ABAP.
+- 🌱 I’m currently exploring Python.
+- 👀 I’m interested in art, tech, and cats.
 - 📫 How to reach me hello.denisseortiz@gmail.com
 
 
